@@ -1,0 +1,11 @@
+# gruvbox-dark
+text-color       = #ebdbb2
+prompt-color     = #fb4934
+selection-color  = #fabd2f
+background-color = #282828
+
+border-width = 0
+outline-width = 1
+
+width = 25%
+height = 30%
