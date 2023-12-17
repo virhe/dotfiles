@@ -1,0 +1,10 @@
+# Ignore everything
+*
+# Whitelist directories
+!*/
+
+!.gitignore
+
+!/hypr/**
+!/wezterm/**
+!/tofi/**
